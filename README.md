@@ -18,14 +18,14 @@
 
 	`sudo pip install requests`
 
-BeautifulSoup gets the movie file URL, Requests downloads it, and MoviePy makes it a GIF (the movie file gets deleted after that)
+	BeautifulSoup gets the movie file URL, Requests downloads it, and MoviePy makes it a GIF (the movie file gets deleted after that)
 
 3. To run the script, type into Terminal
 
 	`python gif_smoothie.py --URL--`
 
-Where *--URL--* is the specific Twitter post's link
+	Where *--URL--* is the specific Twitter post's link
 
-Then you can name your GIF, and you're done!
+	Then you can name your GIF, and you're done!
 
 **From then on all you ever have to do is steps 1 and 3 to get other GIFs! Just as shown in the quick_demo.mp4 movie.**
