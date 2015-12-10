@@ -4,9 +4,9 @@
 
 **Note!** - This is all based on Mac OS X, which has Python pre-installed so these commands will run ad hoc
 
-> If you'd like to understand how the Python script works, just open it in TextEdit or something similar, there are comments in there that explain everything!
+> If you'd like to understand how the Python script works, just open it in TextEdit or something similar, and there are comments in there that explain everything
 
-**Note!** - You only ever have to do step 2 once! Make sure to run each command separately!
+**Note!** - You only ever have to do step 2 once. Make sure to run each command separately!
 
 1. Open Terminal *(cmd + space, search for 'Terminal' or go to Applications/Utilities)*
 
@@ -28,4 +28,4 @@ Where *--URL--* is the specific Twitter post's link
 
 Then you can name your GIF, and you're done!
 
-**From then on all you ever have to do is steps 1 and 3 to get other GIFs! Just as shown in the quick_demo.mp4 movie!**
+**From then on all you ever have to do is steps 1 and 3 to get other GIFs! Just as shown in the quick_demo.mp4 movie.**
