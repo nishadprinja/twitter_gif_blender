@@ -1,30 +1,30 @@
 # twitter_gif_blender
-Twitter GIF grabber written for Frances Bean Cobain
- (post - https://twitter.com/alka_seltzer666/status/674806345548214272)
+##Twitter GIF grabber written for Frances Bean Cobain
+*(post - https://twitter.com/alka_seltzer666/status/674806345548214272)*
 
-Note! - This is all based on Mac OS X, which has Python pre-installed so these commands will run ad hoc
+**Note!** - This is all based on Mac OS X, which has Python pre-installed so these commands will run ad hoc
 
-If you'd like to understand how the Python script works, just open it in TextEdit or something similar, there are comments in there that explain everything!
+* If you'd like to understand how the Python script works, just open it in TextEdit or something similar, there are comments in there that explain everything!
 
-**Note2! - You only ever have to do step 2 once! Make sure to run each command separately!**
+**Note2!** - You only ever have to do step 2 once! Make sure to run each command separately!
 
-1. Open Terminal (cmd + space, search for 'Terminal' or go to Applications/Utilities)
+1. Open Terminal *(cmd + space, search for 'Terminal' or go to Applications/Utilities)*
 
-**2. This module needs 3 external Python libraries installed one by one. To install them, copy and paste (sans quotes) each of the following into Terminal and hit enter (you'll have to enter your password to install these as an administrator)
+2. This module needs 3 external Python libraries installed one by one. To install them, copy and paste each of the following into Terminal and hit enter *(you'll have to enter your password to install these as an administrator)*
 
-'sudo pip install beautifulsoup'
+`sudo pip install beautifulsoup`
 
-'sudo pip install moviepy'
+`sudo pip install moviepy`
 
-'sudo pip install requests'
+`sudo pip install requests`
 
 BeautifulSoup gets the movie file URL, Requests downloads it, and MoviePy makes it a GIF (the movie file gets deleted after that)
 
-3. To run the script, type into Terminal (sans quotes)
+3. To run the script, type into Terminal
 
-'python gif_smoothie.py --URL--'
+`python gif_smoothie.py --URL--`
 
-Where --URL-- is the specific Twitter post's link
+Where *--URL--* is the specific Twitter post's link
 
 Then you can name your GIF, and you're done!
 
